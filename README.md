@@ -125,3 +125,5 @@ license_info.json覆盖到“C:\ProgramData\Acunetix\shared\license”
   参考：
   [AWVS12破解版的安装使用](https://www.cnblogs.com/Hi-blog/p/AWVS12.html)
 </details>
+
+## [forked from starnightcyber/Miscellaneous](https://github.com/starnightcyber/Miscellaneous)
